@@ -1,4 +1,4 @@
-# Projects
+# Personal Projects
 
 ## Not Started
 
