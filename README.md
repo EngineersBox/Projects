@@ -4,7 +4,7 @@
 
 * DEFLATE implementation [C++]
 * SNES Emulator, hardware and software [C/C++]
-* Terraform/Schematic GUI [HTML, CSS, TypeScript, React]
+* Terraform/Schematic GUI [HTML, CSS, JavaScript, TypeScript, React]
 * C-Style Compiler [C/C++]
 * K8s Egress/Ingress Controller [GoLang]
 * Operating System [Rust]
@@ -13,6 +13,7 @@
 * Network Mapper [GoLang]
 * Web Server Library [Java]
 * RESTful Web Service Library [Java]
+* Projects TODO List App [HTML, CSS, JavaScript, TypeScript, React]
 
 ## In Progress
 
