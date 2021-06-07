@@ -3,28 +3,31 @@
 ## Not Started
 
 * DEFLATE implementation [C++]
-* SNES Emulator, hardware and software [C/C++]
-* Terraform/Schematic GUI [HTML, CSS, JavaScript, TypeScript, React]
+* Terraform/Schematic GUI [React or Angular]
 * C-Style Compiler [C/C++]
 * K8s Egress/Ingress Controller [GoLang]
 * Operating System [Rust]
 * DOOM [C++]
 * Ray Traced Physical Based Renderer [C++]
 * Network Mapper [GoLang]
-* Web Server Library [Java]
-* RESTful Web Service Library [Java]
-* Projects TODO List App [HTML, CSS, JavaScript, TypeScript, React]
+* Projects TODO List App [Angular]
 
 ## In Progress
 
+* TCP Proxy [Rust]
+* Minecraft Shader (QuantaShader) [GLSL]
 * Terraform Clone (Schematic) [GoLang]
-* Dependency Injection (Injector) [Java]
-* Modular CLI [GoLang]
 * Wolfenstein 3D [C++]
 * X4H Compression [Java] {Potentially Dropped}
 
 ## Completed
 
+* TCP Proxy with link re-writing [Java]
+* SNES Emulator, hardware and software [C/C++]
+* Modular CLI [GoLang]
+* Dependency Injection (Injector) [Java]
+* Web Server Library [Java]
+* RESTful Web Service Library [Java]
 * Docker Clone (Capsule) [GoLang]
 * TCP Proxy [Python]
 * Quantum Computing Library (QComp.js) [JavaScript]
