@@ -12,6 +12,9 @@
 * Network Mapper [Go]
 * Projects TODO List App [Angular]
 * DNS server with DHCP lease capabilities [Rust or Go]
+* VSCode GLSL linting and documentation integration [JavaScript]
+* CUDA accelerator for network routing [C++]
+* GPU simulator [Rust or C++]
 
 ## In Progress
 
