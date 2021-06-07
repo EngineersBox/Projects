@@ -15,6 +15,7 @@
 * VSCode GLSL linting and documentation integration [JavaScript]
 * CUDA accelerator for network routing [C++]
 * GPU simulator [Rust or C++]
+* GPU accelerated routing (potentially generify to arbitrary host resolution K,V paired) [C/C++]
 
 ## In Progress
 
