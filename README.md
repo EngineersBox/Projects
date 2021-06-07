@@ -5,18 +5,19 @@
 * DEFLATE implementation [C++]
 * Terraform/Schematic GUI [React or Angular]
 * C-Style Compiler [C/C++]
-* K8s Egress/Ingress Controller [GoLang]
+* K8s Egress/Ingress Controller [Go]
 * Operating System [Rust]
 * DOOM [C++]
 * Ray Traced Physical Based Renderer [C++]
-* Network Mapper [GoLang]
+* Network Mapper [Go]
 * Projects TODO List App [Angular]
+* DNS server with DHCP lease capabilities [Rust or Go]
 
 ## In Progress
 
 * TCP Proxy [Rust]
 * Minecraft Shader (QuantaShader) [GLSL]
-* Terraform Clone (Schematic) [GoLang]
+* Terraform Clone (Schematic) [Go]
 * Wolfenstein 3D [C++]
 * X4H Compression [Java] {Potentially Dropped}
 
@@ -24,16 +25,16 @@
 
 * TCP Proxy with link re-writing [Java]
 * SNES Emulator, hardware and software [C/C++]
-* Modular CLI [GoLang]
+* Modular CLI [Go]
 * Dependency Injection (Injector) [Java]
 * Web Server Library [Java]
 * RESTful Web Service Library [Java]
-* Docker Clone (Capsule) [GoLang]
+* Docker Clone (Capsule) [Go]
 * TCP Proxy [Python]
 * Quantum Computing Library (QComp.js) [JavaScript]
 * Neumorphism showcase [HTML, CSS, JavaScript]
 * Quantum Mechanics + Computing Info site [HTML, CSS, JavaScript]
-* Router Implementation [GoLang]
+* Router Implementation [Go]
 * Site Crawler [Python]
 * Console Log Grabbber [Python, Selenium]
 * M5L Classifier [HTML, CSS, JavaScript, p5.js, ml5.js]
